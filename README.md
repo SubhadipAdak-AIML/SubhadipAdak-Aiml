@@ -70,19 +70,19 @@ A blood-donation management web application built with Flask and Oracle Database
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Most-used languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=SubhadipAdak-AIML&show_icons=true&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SubhadipAdak-AIML&layout=compact&hide_border=true" alt="Most-used languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true" alt="GitHub contribution streak" />
+  <img src="https://streak-stats.demolab.com?user=SubhadipAdak-AIML&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
 ## 🤝 Connect With Me
 
-- **GitHub:** https://github.com/YOUR_GITHUB_USERNAME
-- **LinkedIn:** Add your LinkedIn profile URL here
-- **Email:** Add your professional contact email here (optional)
+- **GitHub:** https://github.com/SubhadipAdak-AIML
+- **LinkedIn:** www.linkedin.com/in/subhadip-adak-170757320
+- **Email:** subhadipadak988357@gmail.com
 
 ---
 
