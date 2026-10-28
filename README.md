@@ -1,11 +1,11 @@
-## Hi there 👋
+
 <!--
   Hi there! 👋
   Replace YOUR_GITHUB_USERNAME and contact placeholders with your details.
 -->
 
 <h1 align="center">Hi 👋, I'm Subhadip Adak</h1>
-<h3 align="center">CSE (AI & ML) Student | Aspiring AI/ML Engineer</h3>
+<h3 align="center">CSE (AI & ML) Student | Aspiring Data scientists & AI/ML Engineer</h3>
 
 <p align="center">
   Building practical projects at the intersection of Artificial Intelligence,
